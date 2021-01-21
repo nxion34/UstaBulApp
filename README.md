@@ -8,3 +8,6 @@
 <h1>EKRAN GÖRÜNTÜLERİ</h1>
 
 ![githubonplan](https://user-images.githubusercontent.com/61050531/105400745-68224d80-5c36-11eb-8ac7-0543afcdb8a4.gif)
+
+<h1>MİMARİ PAKET YAPISI</h1>
+![MimariPaketYapisi](https://user-images.githubusercontent.com/61050531/105401082-cc451180-5c36-11eb-8e3b-2c7bfc5b1085.png)
