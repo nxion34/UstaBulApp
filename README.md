@@ -5,5 +5,6 @@
 ![ustamyanimdalogo](https://user-images.githubusercontent.com/61050531/105400386-e8947e80-5c35-11eb-9f2c-d150550adc8a.png)
 <h4>Eviniz ve İş Yeriniz için çözüm ortağınız olan tüm ustalar burada.Boyacı,Tesisatçı,Elektrikçi Hemen Ustanı Bul Android Mobil Uygulama</h4>
 
-<h2>EKRAN GÖRÜNTÜLERİ</h2>
+<h1>EKRAN GÖRÜNTÜLERİ</h1>
+
 ![githubonplan](https://user-images.githubusercontent.com/61050531/105400745-68224d80-5c36-11eb-8ac7-0543afcdb8a4.gif)
