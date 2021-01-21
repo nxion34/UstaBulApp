@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="cardviewisimpadding">16dp</dimen>
+
+    <dimen name="yaziBoyut12">12dp</dimen>
+    <dimen name="yaziBoyut10">12dp</dimen>
+    <dimen name="yaziBoyut24">24dp</dimen>
+    <dimen name="yaziBoyut18">18sp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="layoutMargin28">28dp</dimen>
+    <dimen name="layoutMargin16">16dp</dimen>
+
+    <dimen name="layoutWidth100">100dp</dimen>
+    <dimen name="layoutWidth410">410dp</dimen>
+    <dimen name="layoutWidth89">89dp</dimen>
+    <dimen name="layoutHeight92">92dp</dimen>
+    <dimen name="layoutHeight188">188dp</dimen>
+    <dimen name="layoutHeight185">185dp</dimen>
+    <dimen name="layoutHeight100">100dp</dimen>
+    <dimen name="layoutMarginTop163">163dp</dimen>
+    <dimen name="layoutWidth0">0dp</dimen>
+
+    <dimen name="layoutMarginTop24">24dp</dimen>
+    <dimen name="layoutMarginTop28">28dp</dimen>
+    <dimen name="layoutMarginLeft16">16dp</dimen>
+    <dimen name="layoutMarginTop4">4dp</dimen>
+
+    <dimen name="ustaFotografBoyutWidth181">181dp</dimen>
+    <dimen name="ustaFotografBoyutHeight188">188dp</dimen>
+</resources>

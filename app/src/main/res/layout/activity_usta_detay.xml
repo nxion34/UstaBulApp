@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.h5190072.h5190072_MertcanOzyurtFinal.activities.UstaDetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/imgUstaDetay"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layoutHeight185"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/imgUstaDetayLogo"
+                android:layout_width="@dimen/ustaFotografBoyutWidth181"
+                android:layout_height="@dimen/ustaFotografBoyutHeight188"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding10"
+                android:text="@string/textViewBaslik"
+                android:textColor="@color/ustaIsimRenk"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding10"
+                android:text="@string/textViewDetay"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtAdres"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding10"
+                android:text="@string/textViewAdres"
+                android:textColor="@color/ustaAdresRenk" />
+
+            <ImageView
+                android:id="@+id/imgTelfoto"
+                android:layout_width="@dimen/layoutWidth89"
+                android:layout_height="@dimen/layoutHeight92"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtUstaDetayTel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding16"
+                android:text="@string/textViewTel"
+                android:textColor="@color/ustaTelRenk"
+                android:textSize="@dimen/yaziBoyut18" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

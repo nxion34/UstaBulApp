@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">H5190072_MERTCANOZYURT</string>
+
+    <string name="internethataBaglantiBaslik">İnternet Bağlantınızı Kontrol Ediniz</string>
+
+    <string name="cikisUyari">Çıkmak istediğinize emin misiniz?</string>
+    <string name="cikisUyari2">Şuanda uygulamadan cıkıyorsunuz !</string>
+    <string name="cikisUyari3">CIKIŞ</string>
+    <string name="ayarlaraGit">Ayarlara Git</string>
+    <string name="evetUyari">EVET</string>
+    <string name="hayirUyari">HAYIR</string>
+    <string name="internetUyariBaslik">İNTERNET YOK ! Wİ-Fİ VEYA MOBİL VERİNİZİ AÇINIZ</string>
+    <string name="internetUyariAltBaslik">Uygulamayı kullanabilmek için internet gerekmektedir.</string>
+    <string name="lutfenBekleyiniz">Lütfen Bekleyiniz...</string>
+
+
+    <string name="textViewBaslik">Baslik</string>
+    <string name="textViewDetay">Detay</string>
+    <string name="textViewAdres">Adres</string>
+    <string name="textViewTel">Tel</string>
+
+    <string name="ustaAdi">Usta Adı:</string>
+    <string name="ustaTelefon">Usta Telefon:</string>
+    <string name="ustaMail">Usta Mail:</string>
+
+
+</resources>
